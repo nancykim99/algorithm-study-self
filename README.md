@@ -19,6 +19,6 @@
 
 | 날짜 | 난이도 | 문제 번호 | 문제 제목 및 링크 | 푼 파일 위치 |
 |---------------------------|--------|----------|----------|----------|
-| 2026.06.16 | LV2 | 12939 | [최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939) | [파일 위치](programmers/python/pgm12939.py) |
-| - | LV2 | 12951 | [JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951) | [파일 위치](programmers/python/pgm12951.py) |
-| - | LV2 | 12909 | [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909) | [파일 위치](programmers/python/pgm12909.py) |
+| 2026.06.16 | LV2 | 12939 | [최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939) | [PGM12939](programmers/python/pgm12939.py) |
+| - | LV2 | 12951 | [JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951) | [PGM12951](programmers/python/pgm12951.py) |
+| - | LV2 | 12909 | [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909) | [PGM12909](programmers/python/pgm12909.py) |
