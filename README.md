@@ -9,7 +9,7 @@
 2. 문제를 15분동안 구상하고 풀어보기
 3. 기억이 안 나는 문법의 경우, claude, chatgpt를 사용해서 메모하면서 풀기
 4. 구상한 방식이 알맞지 않은 경우, 힌트를 받아서 15분동안 추가로 풀어보기
-5. 깃허브에 문제 + 메모 + 풀이를 정리해서 push하기
+5. 깃허브에 문제 + 메모 + 풀이 방법 + 풀이를 정리해서 push하기
 
 ### 📅 공부 계획
 - 코드트리 LV2 목표 : 7월 이내로 LV2 문제 전부 풀기
@@ -20,4 +20,4 @@
 |---------------------------|--------|----------|----------|----------|
 | 2026.06.16 | LV2 | 12939 | [최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939) |  |
 | - | LV2 | 12951 | [JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951) |  |
-| - | LV2 | 12951 | [JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951) |  |
+| - | LV2 | 12909 | [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909) |  |
