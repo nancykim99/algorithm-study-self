@@ -15,9 +15,13 @@
 ## 📅 공부 계획
 - 코드트리 LV2 목표 : 7월 이내로 LV2 문제 전부 풀기
 
-### 2026년 6월 푼 문제 정리
+### 6월 푼 문제 정리
+
+#### 6월 목표
 - 1달동안 손놓고 있던 코딩 다시 공부하기
 - python 문법에 다시 익숙해지기
+
+#### 6월 문제표
 
 | 날짜 | 난이도 | 문제 번호 | 문제 제목 및 링크 | 푼 파일 위치 |
 |---------------------------|--------|----------|----------|----------|
@@ -27,3 +31,5 @@
 | 2026.06.17 | LV2 | 12941 | [최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12941) | [PGM12941](programmers/python/pgm12941.py) |
 | - | LV2 | 70129 | [이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129) | [PGM70129](programmers/python/pgm70129.py) |
 | - | LV2 | 12924 | [숫자의 표현](https://school.programmers.co.kr/learn/courses/30/lessons/12924) | [PGM12924](programmers/python/pgm12924.py) |
+| 2026.06.18 | LV2 | 12911 | [다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911) | [PGM12911](programmers/python/pgm12911.py) |
+| - | LV2 | 12945 | [피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945) | [PGM12945](programmers/python/pgm12945.py) |
