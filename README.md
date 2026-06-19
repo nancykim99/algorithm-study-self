@@ -33,3 +33,5 @@
 | - | LV2 | python | 12924 | [숫자의 표현](https://school.programmers.co.kr/learn/courses/30/lessons/12924) | [PGM12924](programmers/python/pgm12924.py) |
 | 2026.06.18 | LV2 | python | 12911 | [다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911) | [PGM12911](programmers/python/pgm12911.py) |
 | - | LV2 | python | 12945 | [피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945) | [PGM12945](programmers/python/pgm12945.py) |
+| 2026.06.19 | LV2 | python | 12973 | [짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973) | [PGM12973](programmers/python/pgm12973.py) |
+| - | LV2 | python | 138476 | [귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476) | [PGM138476](programmers/python/pgm138476.py) |
