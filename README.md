@@ -35,3 +35,6 @@
 | - | LV2 | python | 12945 | [피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945) | [PGM12945](programmers/python/pgm12945.py) |
 | 2026.06.19 | LV2 | python | 12973 | [짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973) | [PGM12973](programmers/python/pgm12973.py) |
 | - | LV2 | python | 138476 | [귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476) | [PGM138476](programmers/python/pgm138476.py) |
+| 2026.06.20 | LV2 | python | 12980 | [점프와 순간 이동](https://school.programmers.co.kr/learn/courses/30/lessons/12980) | [PGM12980](programmers/python/pgm12980.py) |
+| - | LV2 | python | 42885 | [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885#) | [PGM42885](programmers/python/pgm42885.py) |
+| - | LV2 | python | 12914 | [멀리 뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914) | [PGM12914](programmers/python/pgm12914.py) |
